@@ -2,6 +2,6 @@
 
 ## Instructor
 
-Whitney Young
+Whitney Young  
 whitney@portlandcodeschool.com
 
