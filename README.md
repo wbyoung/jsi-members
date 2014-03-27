@@ -1,6 +1,8 @@
-# Portland Code School &mdash; JavaScript Immersion Members
+# Portland Code School
 
-## Instructor
+## JavaScript Immersion Members
+
+### Instructor
 
 Whitney Young  
 whitney@portlandcodeschool.com
