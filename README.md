@@ -11,13 +11,13 @@ Samuel Averett
 
 Carlo De Gregorio
 
-Josh (j.allentucker@gmail.com)
-
 Adam Horak
 
 Tian Song
 
 Grant Stampfli
+
+Josh Tucker (j.allentucker@gmail.com)
 
 Dmitry White
 
