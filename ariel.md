@@ -1,0 +1,1 @@
+My name is Ariel, I am learning Javascript. Hurray.
