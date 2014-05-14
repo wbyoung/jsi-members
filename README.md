@@ -12,6 +12,8 @@ Josh (j.allentucker@gmail.com)
 
 Samuel Averett
 
+Tian Song
+
 ### Instructor
 
 Whitney Young  
