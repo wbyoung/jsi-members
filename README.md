@@ -16,6 +16,8 @@ Tian Song
 
 Dmitry White
 
+Adam Horak
+
 ### Instructor
 
 Whitney Young  
