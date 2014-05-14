@@ -7,6 +7,8 @@ off of this and absolutely should not use it in production.
 
 ## JavaScript Immersion Members
 
+Adam Horak
+
 ### Instructor
 
 Whitney Young  
