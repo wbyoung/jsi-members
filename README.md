@@ -14,6 +14,8 @@ Samuel Averett
 
 Tian Song
 
+Dmitry White
+
 ### Instructor
 
 Whitney Young  
