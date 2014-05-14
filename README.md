@@ -10,6 +10,8 @@ Carlo De Gregorio
 
 Josh (j.allentucker@gmail.com)
 
+Samuel Averett
+
 ### Instructor
 
 Whitney Young  
