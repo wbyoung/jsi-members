@@ -6,21 +6,23 @@ contain syntax errors, or only be a partial solution. You should not base code
 off of this and absolutely should not use it in production.
 
 ## JavaScript Immersion Members
+
+Samuel Averett
+
 Carlo De Gregorio
 
 Josh (j.allentucker@gmail.com)
 
-Samuel Averett
+Adam Horak
 
 Tian Song
 
-Dmitry White
+Grant Stampfli
 
-Adam Horak
+Dmitry White
 
 ### Instructor
 
 Whitney Young  
 whitney@portlandcodeschool.com
-
 
