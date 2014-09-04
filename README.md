@@ -23,6 +23,8 @@ Josh Tucker (j.allentucker@gmail.com)
 
 Dmitry White
 
+Andrea Moulding
+
 ### Instructor
 
 Whitney Young  
