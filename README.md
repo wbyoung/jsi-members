@@ -10,8 +10,15 @@ off of this and absolutely should not use it in production.
 David Hasenjaeger
 davehasen@gmaill.com
 
+Miles Hochstein
+miles.hochstein@gmail.com
+
+Aaron Ollis
+
 ### Instructor
 
 Andrew Lorente
 alorente@portlandcodeschool.com
 
+Wendy Beck
+webeck@gmail.com
