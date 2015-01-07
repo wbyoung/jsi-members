@@ -10,6 +10,8 @@ off of this and absolutely should not use it in production.
 Miles Hochstein
 miles.hochstein@gmail.com
 
+Aaron Ollis
+
 ### Instructor
 
 Andrew Lorente
