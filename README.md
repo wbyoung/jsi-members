@@ -7,28 +7,8 @@ off of this and absolutely should not use it in production.
 
 ## JavaScript Immersion Members
 
-Leslie Strauss
-
-Austin Trafficante
-
-Samuel Averett
-
-Carlo De Gregorio
-
-Adam Horak
-
-Tian Song
-
-Grant Stampfli
-
-Josh Tucker (j.allentucker@gmail.com)
-
-Dmitry White
-
-Andrea Moulding
+[Nic Wolf](https://github.com/Nic-Wolf)
 
 ### Instructor
 
-Whitney Young  
-whitney@portlandcodeschool.com
 
