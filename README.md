@@ -7,6 +7,9 @@ off of this and absolutely should not use it in production.
 
 ## JavaScript Immersion Members
 
+David Hasenjaeger
+davehasen@gmaill.com
+
 Bryce Johnson
 bj4242@gmail.com  
 
