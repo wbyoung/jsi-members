@@ -7,8 +7,22 @@ off of this and absolutely should not use it in production.
 
 ## JavaScript Immersion Members
 
+Bryce Johnson
+bj4242@gmail.com  
+
+Miles Hochstein
+miles.hochstein@gmail.com
+Mike Burnett
+
+Wendy Beck
+webeck@gmail.com
+
+Aaron Ollis
+
 [Nic Wolf](https://github.com/Nic-Wolf)
 
 ### Instructor
 
+Andrew Lorente
+alorente@portlandcodeschool.com
 
