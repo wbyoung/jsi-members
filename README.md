@@ -28,9 +28,11 @@ Josh Tucker (j.allentucker@gmail.com)
 Dmitry White
 
 Andrea Moulding
+=======
+>>>>>>> pcs/master
 
 ### Instructor
 
-Whitney Young  
-whitney@portlandcodeschool.com
+Andrew Lorente
+alorente@portlandcodeschool.com
 
