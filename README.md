@@ -22,7 +22,10 @@ webeck@gmail.com
 
 Aaron Ollis
 
+[Nic Wolf](https://github.com/Nic-Wolf)
+
 ### Instructor
 
 Andrew Lorente
 alorente@portlandcodeschool.com
+
