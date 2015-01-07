@@ -8,31 +8,3 @@ off of this and absolutely should not use it in production.
 ## JavaScript Immersion Members
 
 Seth Shober
-
-Leslie Strauss
-
-Austin Trafficante
-
-Samuel Averett
-
-Carlo De Gregorio
-
-Adam Horak
-
-Tian Song
-
-Grant Stampfli
-
-Josh Tucker (j.allentucker@gmail.com)
-
-Dmitry White
-
-Andrea Moulding
-=======
->>>>>>> pcs/master
-
-### Instructor
-
-Andrew Lorente
-alorente@portlandcodeschool.com
-
