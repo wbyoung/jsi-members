@@ -7,6 +7,8 @@ off of this and absolutely should not use it in production.
 
 ## JavaScript Immersion Members
 
+Seth Shober
+=======
 David Hasenjaeger
 davehasen@gmaill.com
 
@@ -24,7 +26,10 @@ webeck@gmail.com
 
 Aaron Ollis
 
+[Nic Wolf](https://github.com/Nic-Wolf)
+
 ### Instructor
 
 Andrew Lorente
 alorente@portlandcodeschool.com
+
