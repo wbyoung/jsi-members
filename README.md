@@ -13,6 +13,8 @@ miles.hochstein@gmail.com
 Wendy Beck
 webeck@gmail.com
 
+Aaron Ollis
+
 ### Instructor
 
 Andrew Lorente
