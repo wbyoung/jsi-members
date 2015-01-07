@@ -10,10 +10,10 @@ off of this and absolutely should not use it in production.
 Miles Hochstein
 miles.hochstein@gmail.com
 
+Wendy Beck
+webeck@gmail.com
+
 ### Instructor
 
 Andrew Lorente
 alorente@portlandcodeschool.com
-
-Wendy Beck
-webeck@gmail.com
