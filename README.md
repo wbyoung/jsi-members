@@ -7,8 +7,11 @@ off of this and absolutely should not use it in production.
 
 ## JavaScript Immersion Members
 
-Seth Shober
+
 =======
+
+Seth Shober
+
 David Hasenjaeger
 davehasen@gmaill.com
 
@@ -18,7 +21,7 @@ bj4242@gmail.com
 Miles Hochstein
 miles.hochstein@gmail.com
 
-Mike Burnett
+[Mike Burnett](https://github.com/mikeatgl)
 speakoftrees@gmail.com
 
 Wendy Beck
